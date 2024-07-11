@@ -1,0 +1,7 @@
+PERMISION AND MANAGEMENT
+ACCESS CONTOL LIST:ACLs used to grant read/write permission to another AWS 
+account
+BUCKET POLICY: IT Ues JSON based access policy advance permission to your s3 
+resource.
+CROS;CROS Stands for cross origin resource sharing. it allows cross-origin 
+access to your s3 resource.
